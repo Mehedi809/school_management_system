@@ -30,3 +30,4 @@ urlpatterns = [
     # GET /salary/statistics/ - Get statistics
     path("", include(router.urls)),
 ]
+
